@@ -24,11 +24,14 @@
 <a href="https://github.com/joaovflorisvaldo/openCart">
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=openCart&theme=blue-green" />
 </a>
-<a href="https://github.com/joaovflorisvaldo/studentGrade">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=studentGrade&theme=blue-green" />
+<a href="https://github.com/joaovflorisvaldo/pokedex">
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=pokedex&theme=blue-green" />
 </a>
-<a href="https://github.com/joaovflorisvaldo/translatePythonAPI">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=translatePythonAPI&theme=blue-green" />
+  <a href="https://github.com/joaovflorisvaldo/FPJAuto">
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=FPJAuto&theme=blue-green" />
+</a>
+<a href="https://github.com/joaovflorisvaldo/clinicaUnipar">
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=clinicaUnipar&theme=blue-green" />
 </a>
 
 <!---
