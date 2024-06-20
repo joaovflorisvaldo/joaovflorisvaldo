@@ -22,16 +22,16 @@
 </div>
 <hr> 
 <a href="https://github.com/joaovflorisvaldo/openCart">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=openCart&theme=blue-green" />
+  <img align="center" height="120em" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=openCart&theme=blue-green" />
 </a>
 <a href="https://github.com/joaovflorisvaldo/pokedex">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=pokedex&theme=blue-green" />
+  <img align="center" height="120em" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=pokedex&theme=blue-green" />
 </a>
   <a href="https://github.com/joaovflorisvaldo/FPJAuto">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=FPJAuto&theme=blue-green" />
+  <img align="center" height="120em" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=FPJAuto&theme=blue-green" />
 </a>
 <a href="https://github.com/joaovflorisvaldo/clinicaUnipar">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=clinicaUnipar&theme=blue-green" />
+  <img align="center" height="120em" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovflorisvaldo&repo=clinicaUnipar&theme=blue-green" />
 </a>
 
 <!---
