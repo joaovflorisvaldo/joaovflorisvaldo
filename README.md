@@ -1,6 +1,6 @@
 <div>👋 Olá, me chamo João Vitor</div>
 <div>🌱 Estou cursando analise e desenvolvimento de sistemas</div>
-<div>👨🏻‍💻 Trabalho como full stack developer na <a href="https://www.quadrosbrasil.com.br/">Quadros Brasil®</a>
+<div>👨🏻‍💻 Fiz o site<a href="https://www.quadrosbrasil.com.br/">Quadros Brasil®</a>
 <div>📫 joaovflorisvaldo@gmail.com</div>
 <div>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
